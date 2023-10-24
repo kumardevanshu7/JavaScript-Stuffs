@@ -63,7 +63,7 @@
 > - Zero → `0`
 > - Natural Numbers → `1, 2, 3, 4`
 > - Use `Math.round()` function because java has problem with floating numbers
-> -- `Math.round(18003.8618)` → `18004`
+>   - `Math.round(18003.8618)` → `18004`
 
 <br>
 
