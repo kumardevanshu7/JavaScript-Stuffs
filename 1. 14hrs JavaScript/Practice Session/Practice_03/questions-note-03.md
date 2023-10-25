@@ -37,7 +37,7 @@ color: blue;
 
 
 // task 05 : solution
-use -> <main> ... code </main>, <header> ... code </header>, <footer> ... code</footer>
+use semantic tags --> <main> ... code </main>, <header> ... code </header>, <footer> ... code</footer>
 
 
 // task 06 : solution
