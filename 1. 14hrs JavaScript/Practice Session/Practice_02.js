@@ -46,3 +46,4 @@ Tasks: (Numbers and Strings)
 
 // task 06 : solution
 alert(`your final amount is 18003`)
+
