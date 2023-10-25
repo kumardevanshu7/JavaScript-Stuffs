@@ -63,7 +63,7 @@
 > - Zero → `0`
 > - Natural Numbers → `1, 2, 3, 4`
 > - Use `Math.round()` function because java has problem with floating numbers
->   - `Math.round(18003.8618)` → `18004`
+>   s- `Math.round(18003.8618)` → `18004`
 
 <br>
 
@@ -72,3 +72,27 @@
 > - Use `MDN`
 > - Use `ChatGPT`
 > - Focus → Understand concepts, not just syntax
+
+<br>
+
+> ## Strings
+> - Strings hold textual data, anything from single character to paragraph.
+> - Can be defined using → `‘ ’`, `“ ”`,` `
+>    - ‘ ’ → `single quotes`
+>    - “ ” → `double quotes` → not usually used
+>    - ` ` → `backticks`
+>        - here you can use expression → `${ expression }`
+>    - \n → `nextline`
+> - Concatenation
+>    - `‘name’ + ‘ please’ → name please`
+>    - `‘got ’ + 4.5 → got 4.5`
+>    - `‘4’ + ‘5’ → 45`
+>    - Major Problem is that you have to use `brackets` otherwise JS treat number as a string if you use it with the string
+>        - `‘you have got ’ + 1 + 1 + 1 + ‘ votes’ → you have got 111 votes`
+>        - `‘you have got ’ + (1 + 1 + 1) + ‘ votes’ → you have got 3 votes`
+
+<br>
+
+> ## `typeof` operator
+> - tells you the data type of a variable
+> - its a keyword
