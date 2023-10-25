@@ -1,6 +1,7 @@
 /* 
 
-Tasks:
+Tasks: (Playing in Console)
+
 1. Use and alert to display Good Morning.
 2. Display your name in a pop-up. (Note: alert or popup means SAME)
 3. Using Math calculate the Following:
