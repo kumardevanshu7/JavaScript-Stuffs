@@ -1,6 +1,6 @@
 /* 
 
-Tasks: (Playing in Console)
+Tasks: 
 
 1. Save your name in a variable inside script tag
 2. Display name from the variable on the page
@@ -35,17 +35,17 @@ console.log(cartValue)
 
 
 // task 05 : solution
-const GST = 118/100;
+const GST = 118 / 100;
 
 
 // task 06 : solution
-console.log(45+78)
+console.log(45 + 78)
 123
 
-console.log(45+'78')
+console.log(45 + '78')
 4578
 
-console.log(eval(45+'78'))
+console.log(eval(45 + '78'))
 4578
 
 console.log(eval('45+78'))
