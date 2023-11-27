@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <script>
+        // let welcome = 'heelo Deepu';
+        // console.log(welcome);
+
+        let bagPrize = (15599 - (10/100 * 15599));
+        let jeansPrize = (2499 - (41/100*2499)) - 29;
+        let GST = 118/100;
+
+        let bagValue = Math.round(( bagPrize - 272 + jeansPrize + 25 + 20) * GST);
+
+        let bagSummary = `Your final Myntra Bag amount is Rs. ${bagValue}`;
+
+        console.log(bagSummary)
+    </script>
+</body>
+</html>

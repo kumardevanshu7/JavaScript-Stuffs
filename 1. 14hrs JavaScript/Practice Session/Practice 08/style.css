@@ -1,0 +1,16 @@
+.change-val {
+  width: 70px;
+  height: 70px;
+  font-size: 1.2rem;
+  /* border: none; */
+  border-radius: 30px;
+  background-color: whitesmoke;
+}
+
+.js-odd {
+  background-color: tomato;
+}
+
+.js-even {
+  background-color: seagreen;
+}

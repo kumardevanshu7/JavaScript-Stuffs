@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&display=swap');
+
+*{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body, html{
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+    
+}
+
+.heading{
+    font-family: 'Playpen Sans', cursive;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.cal-btn{
+    display: flex;
+    height: 45vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* border: 2px solid black; */
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cal-btn button{
+    width: 4vw;
+    height: 5vh;
+    flex: 0 0 20%;
+    font-size: 1.7rem;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cal-btn button:hover{
+    background-color: lightpink;
+}
+
+
+.cal-border{
+    width: 20%;
+    height: 54%;
+    background-color:aquamarine;
+    margin: 10vh auto;
+    padding: 25px;
+    border-radius: 17px;
+    box-shadow: 0 0 10px red
+}
+
+.screen{
+    width: 93%;
+    font-size: 2rem;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+}
