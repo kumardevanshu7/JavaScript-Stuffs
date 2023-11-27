@@ -1,22 +1,22 @@
 let screen = document.querySelector('.screen');
 let phrase = '';
 
-function getNumber(string){
+function getNumber(string) {
     phrase = phrase + string;
     screen.value = phrase;
 }
 
-function result(){
+function result() {
     ans = eval(phrase)
     screen.value = ans;
 }
 
-function clean(){
+function clean() {
     phrase = '';
     screen.value = phrase;
 }
 
-function del(){
+function del() {
     phrase = phrase.slice(0, -1);
     screen.value = phrase;
 }
