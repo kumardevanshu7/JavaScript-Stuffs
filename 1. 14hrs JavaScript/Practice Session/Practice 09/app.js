@@ -1,6 +1,6 @@
 /*
  
-Questions: 
+Questions List: 
 
 1. Create an array of numbers [5,6]. Add 4 at the beginning and 7 at the end of the array.
 2. Create a method to return an element at a particular position in the array.
