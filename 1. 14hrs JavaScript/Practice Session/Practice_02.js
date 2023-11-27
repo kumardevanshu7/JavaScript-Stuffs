@@ -12,13 +12,13 @@ Tasks: (Numbers and Strings)
 */
 
 
-// task 01 : solution
-'$ ' + ((1*100) + (2*10) + (1*30))
+// Task 01 : solution
+'$ ' + ((1 * 100) + (2 * 10) + (1 * 30))
 '$ 150'
 
 
-// task 02 : solution
-`Your GST Amoount i ${(79990 + 2*24990) * 18/100}`
+  // task 02 : solution
+  `Your GST Amoount i ${(79990 + 2 * 24990) * 18 / 100}`
 'Your GST Amoount i 23394.6'
 
 
@@ -28,20 +28,20 @@ Tasks: (Numbers and Strings)
 // ----
 "Method 2"
 'Method 2'
-// ----
-`Method 3`
+  // ----
+  `Method 3`
 'Method 3'
 
 
-// task 04 : solution
-`heelo` + ` Bhai`
+  // task 04 : solution
+  `heelo` + ` Bhai`
 'heelo Bhai'
-// ----
-`heelo ` + 5
+  // ----
+  `heelo ` + 5
 'heelo 5'
 
-// task 05 : solution
-`your final amount is 18003`
+  // task 05 : solution
+  `your final amount is 18003`
 
 
 // task 06 : solution
