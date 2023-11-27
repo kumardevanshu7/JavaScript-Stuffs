@@ -1,6 +1,6 @@
 /*
 
-Questions
+Questions:
 
 1. Create a variable multiply and assign a function to this variable that multiplies two numbers. Call this method from the variable.
 
