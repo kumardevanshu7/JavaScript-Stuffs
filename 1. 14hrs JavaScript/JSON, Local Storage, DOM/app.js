@@ -1,4 +1,4 @@
-// ------- JSON File
+// ------------- JSON File
 
 // let girl = {
 //     name : "Zainab",
