@@ -1,22 +1,22 @@
-/* css  */
+/* CSS  */
 
-.run-btn{
-   color: blue;
+.run-btn {
+  color: blue;
 }
 
-.btn-one{
-    background-color: lightgreen;
-    border: none;
-    padding: 7px 20px;
-    border-radius: 10px;
-    font-weight: bold;
+.btn-one {
+  background-color: lightgreen;
+  border: none;
+  padding: 7px 20px;
+  border-radius: 10px;
+  font-weight: bold;
 }
 
-.btn-two{
-    border: 2px solid black;
-    padding: 3px 30px;
-    border-radius: 8px;
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-left: 1vw;
+.btn-two {
+  border: 2px solid black;
+  padding: 3px 30px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 1vw;
 }
