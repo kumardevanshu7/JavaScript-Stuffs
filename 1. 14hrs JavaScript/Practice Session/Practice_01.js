@@ -11,7 +11,7 @@ Tasks: (Playing in Console)
 
 */
 
-// task 01 : solution
+// Task 01 : solution
 alert("Good Morning")
 
 // task 02 : solution
@@ -19,9 +19,9 @@ alert("Deepu")
 
 // task 03 : solution
 75 - 25
->> 50
-3+3-5
->>1
+    >> 50
+3 + 3 - 5
+    >> 1
 
 // task 04 : solution
 document.body.innerHTML = "I am learning JS"
