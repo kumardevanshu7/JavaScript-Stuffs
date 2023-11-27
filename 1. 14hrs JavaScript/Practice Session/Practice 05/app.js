@@ -1,6 +1,6 @@
 /*
 
-1. Give discount based on age, gender for metro ticket:
+Give discount based on age, gender for metro ticket:
     - Females get 50% off.
     - Kids under 5 years of age are free.
     - Kids up to 8 years have half ticket.
@@ -46,7 +46,7 @@ In case of multiple discounts max discount will apply.
 
 
 
-function randomNumber(){
+function randomNumber() {
 
     return Math.random();
 }
