@@ -1,7 +1,5 @@
 let cartQuantity = 0;
 
-// document.querySelector('#cart-summary').innerText = `Your Bag Has ${cartQuantity} Item`
-
 function addbag() {
     cartQuantity++;
     document.querySelector('#cart-summary').innerText = `Your Bag Has ${cartQuantity} Item`
@@ -17,7 +15,7 @@ function remove() {
 }
 
 function add11() {
-    cartQuantity+=2;
+    cartQuantity += 2;
     document.querySelector('#cart-summary').innerText = `Your Bag Has ${cartQuantity} Item`
 }
 
