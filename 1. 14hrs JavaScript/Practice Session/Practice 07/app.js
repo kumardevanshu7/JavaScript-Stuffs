@@ -46,30 +46,30 @@ let newProps = {
     statusi: "complete",
 }
 
-let {message, statusi} = newProps;
+let { message, statusi } = newProps;
 console.log(message)
 console.log(statusi);
 
 // Answer 05
-function isIdenticalProduct(product1, product2){
-    if(typeof product1 !== 'object' || typeof product2 !== 'object'){
+function isIdenticalProduct(product1, product2) {
+    if (typeof product1 !== 'object' || typeof product2 !== 'object') {
         console.warn('Not Same Object');
         return false;
     }
 
-    if(product1 == product2){
+    if (product1 == product2) {
         return true;
     }
 
-    if(product1.name === product2.name && product1.size === product2.size && product1.fit === product2.fit){
+    if (product1.name === product2.name && product1.size === product2.size && product1.fit === product2.fit) {
         return true;
-    } else{
+    } else {
         return false;
     }
 
 }
 
-function ofObject(){
+function ofObject() {
     return console.log(`Scene 01: ${isIdenticalProduct(product, "")}, Scene 02: ${isIdenticalProduct(product, product)}, and Scene 03: ${isIdenticalProduct(product, newProduct)}`);
 }
 
