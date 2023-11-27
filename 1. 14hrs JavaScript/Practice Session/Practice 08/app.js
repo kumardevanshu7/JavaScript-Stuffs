@@ -1,6 +1,6 @@
 /*
 
-Questions List:
+Questions:
 
 1. Display good morning, afternoon and night based on current hour
 
