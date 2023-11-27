@@ -3,7 +3,7 @@ function Hello() {
   let fullName = () => {
     return "Devu Pyaara";
   };
-  return <h3>Hello Deepu, This is me... {fullName()}</h3>;
+  return <h3>Hello Deepu, This is Me... {fullName()}</h3>;
 }
 
 export default Hello;

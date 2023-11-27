@@ -1,3 +1,3 @@
-export default function Deepu(){
-  return <button>LOVE</button>
+export default function Deepu() {
+  return <button>LOVE D</button>;
 }

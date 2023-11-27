@@ -8,7 +8,7 @@ function Random() {
         padding: "10px 20px",
       }}
     >
-      Random Number is {number}.
+      Random Number is: {number}.
     </h1>
   );
 }

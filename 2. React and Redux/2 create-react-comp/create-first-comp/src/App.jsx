@@ -3,7 +3,7 @@ import Deepu from "./deepuBtn";
 import Hello from "./hello";
 import Random from "./Random";
 
-// its a functional components
+// its a Functional components
 function App() {
   return (
     <div>
