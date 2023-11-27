@@ -1,6 +1,6 @@
-// -------- Basic Array Demo
+// ----------- Basic Array Demo
 
-let random = [1, "Deepu", null, true, {Rate: 8}]
+let random = [1, "Deepu", null, true, { Rate: 8 }]
 console.log(random);
 
 // splice demo
