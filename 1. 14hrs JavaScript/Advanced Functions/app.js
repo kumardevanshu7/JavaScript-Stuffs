@@ -54,7 +54,7 @@ function for_each() {
 
     let arr = [2, 4, 1, "Deepu"];
 
-    // using for each loop
+    // using for-each loop
     arr.forEach(function (items) {
         console.log(items);
     })
