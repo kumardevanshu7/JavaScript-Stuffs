@@ -1,5 +1,4 @@
 function ob() {
-
     // --- demo
     // let girl = {
     //     Gname : "Deepu",
